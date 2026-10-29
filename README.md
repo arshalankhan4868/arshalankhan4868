@@ -9,7 +9,7 @@ Welcome to my GitHub profile!
 
 I'm a PGDM student at the Fortune Institute of International Business (FIIB), New Delhi, with a background in Computer Science Engineering from Jharkhand University of Technology.
 
-With 2.5 years of professional experience in ERP implementation at InfoGem Web Solution Private Limited, I've worked with educational institutions to implement ERP solutions, train users, resolve customer issues, and improve their experience with technology.
+With 2.5 years of professional experience in ERP implementation at Infogem Web Solution Private Limited, I've worked with educational institutions to implement ERP solutions, train users, resolve customer issues, and improve their experience with technology.
 
 I'm passionate about connecting technology with business strategy, marketing, and customer needs. I enjoy understanding market trends, analysing competitors, exploring new business opportunities, and developing practical solutions to real-world problems.
 
